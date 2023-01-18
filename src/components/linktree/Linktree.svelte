@@ -6,7 +6,7 @@
         //bg-[#F9F5E3]
 </script>
 
-<main class=''>
+<main class='overflow-hidden'>
     <div class='flex justify-center mt-14 mb-6'>
         <img
             src='/player4.png'
@@ -14,7 +14,7 @@
             class="h-24 w-24 rounded-full object-cover sm:h-24 sm:w-24 group-hover:opacity-70 shadow-lg"
         >
     </div>
-    <div class='text-bold text-2xl justify-center flex'><b>Nick Mura</b></div>
+    <div class='text-bold text-2xl justify-center flex text-[#F9F5E3]'><b>Nick Mura</b></div>
     <a class='w-full' href='https://github.com/nickmura' alt=''>
         <div class="flex justify-center hover:scale-[1.05] transition transition-200">
             <div class="mt-8 ml-6 mr-6 flex w-full max-w-[680px] rounded-lg border bg-[#F9F5E3] px-3 py-3 shadow-lg relative">
